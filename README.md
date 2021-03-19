@@ -7,3 +7,4 @@
 
 2- Utilizando ESP01 para receber comando da Alexa (IOT)
   Esse projeto estou usando em casa com a automatização do acendimento de uma lâmpada e ligação de um ventilador. É um projeto de automação residâncial com baixissimo custo. :)
+  Para usar esse código para fazer seu projeto você precisa criar uma conta no site SinricPro https://sinric.pro/pt-index.html, após isso você cria os dispositivos dentro da plataforma a os menciona dentro do código.
