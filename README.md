@@ -1,4 +1,4 @@
-# Arquivos com código para Arduinos
+# Códigos para Arduinos
 
 1- Leitor de cartão frid:
   Esse código foi utilizado em um Arduino uno, porém pode ser utilizado em qualquer tipo de arduino.
